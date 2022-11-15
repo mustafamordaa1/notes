@@ -1,4 +1,11 @@
 # notes
+## Tips for running the app :
+- run those commands after cloning the program files and activating the virtual environment.
+```
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
 ## Authorization :
 > Django-Rest-Knox third party package is used for Authorization in this API. Then you have to include a valid  Token in requests headers if you wish to ```retrive, list, add or delete``` a note.
 ### 1. Getting the Token:
