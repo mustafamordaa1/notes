@@ -27,7 +27,7 @@ there is two ways to get a valid Token :
   "username":"<your_username>",
   "email":"<your_email>",
   "first_name":"<your_first_name>",
-  "last_name":<your_last_name>",
+  "last_name":"<your_last_name>",
   "password":"<your_password>"
 }
 ```
